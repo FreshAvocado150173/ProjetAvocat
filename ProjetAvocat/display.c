@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<std
+#include<stdlib.h>
 
 void displayWindow(char *filename){
 
@@ -26,5 +26,6 @@ void displayWindow(char *filename){
 
 void displayMainWindow(){
 
-    displayMainWindow("mainWindow.txt");
+    displayWindow("mainWindow.txt");
 }
+

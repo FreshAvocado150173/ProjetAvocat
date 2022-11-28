@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669642706 source:c:\classroom\cs357\projetcsclone\projetavocat\projetavocat\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669642692 source:c:\classroom\cs357\projetcsclone\projetavocat\projetavocat\display.c
+	<stdio.h>
+	<stdlib.h>
+

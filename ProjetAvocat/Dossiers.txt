@@ -1,0 +1,7 @@
+{Nom,}
+{DateOuverture,}
+{DateFermeture,}
+{Etat, }
+{NomAvocat, }
+{NomClerc, }
+
