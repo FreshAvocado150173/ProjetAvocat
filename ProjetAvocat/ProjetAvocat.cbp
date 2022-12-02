@@ -31,7 +31,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Collaborateurs.txt" />
+		<Unit filename="Dossiers.txt" />
+		<Unit filename="display.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainWindow.txt" />
+		<Unit filename="model/case.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="model/collaborator.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

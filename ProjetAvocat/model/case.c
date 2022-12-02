@@ -8,3 +8,4 @@ typedef struct {
     char * lawyerName;
     char * clerkName;
 } Case;
+

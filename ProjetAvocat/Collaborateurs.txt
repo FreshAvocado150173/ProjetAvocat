@@ -1,4 +1,2 @@
-{Name,}
-{LastName,}
-{Fonction,}
+Collaborators:(Name, LastName, Fonction);(Name,LastName,Fonction)
 

@@ -3,3 +3,11 @@ typedef struct {
     char * lastName;
     char * function;
 } Collaborator;
+
+void AppendCollaborator(){}
+
+void FetchCollaborator(){}
+
+void EraseCollaborator(){}
+
+void
